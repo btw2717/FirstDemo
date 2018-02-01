@@ -19,7 +19,7 @@ double  average = ((double)(num1+num2+num3));
   System.out.println("The average is"+average);
  
 //Make code to find average
-
+//This is a test change to the program to push to your repository from Brady Wiser, to see what happens.
 
 
 
